@@ -19,8 +19,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-    
-# 📊 GitHub Stats:
+
 <img style="max-width:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpeilun&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 </div>
 
