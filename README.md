@@ -3,7 +3,6 @@
 <h3 align="center"><a href="https://github.com/stars/mpeilun/lists/side-project">My Side Project</h3>
 
 # 💻 Tech Stack:
-<div>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) 
 
@@ -20,10 +19,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<div>
-  
-<img style="max-width:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpeilun&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mpeilun&icon=0&color=12)](https://visitcount.itsvg.in)
