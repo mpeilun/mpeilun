@@ -23,9 +23,8 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
     
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mpeilun&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mpeilun&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mpeilun&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<img style="max-width:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpeilun&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mpeilun&icon=0&color=12)](https://visitcount.itsvg.in)
